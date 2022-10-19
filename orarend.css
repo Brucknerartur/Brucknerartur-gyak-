@@ -1,0 +1,14 @@
+body{
+    font-size: 15px;
+}
+
+table, td, th {
+    border: 3px solid black;
+    border-collapse: collapse ;
+    text-align: center;
+    padding: 10px ;
+}
+
+.közép {
+    text-align: center;
+}
