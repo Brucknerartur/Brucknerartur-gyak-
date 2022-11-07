@@ -1,13 +1,13 @@
 body{
   padding: 15px;
-  background-color: #E7E7FF;
+  background-color: #FFF5E8;
   color: #1D1D4E;
   width: 800px;
   margin: auto;
 }
 
-h1{
-  text-align: center;
+h1, h2{
+  color: #B16400;
 }
 
 
@@ -16,16 +16,12 @@ p{
   text-align: justify;
 }
 
-#balkep{
+.balra{
   float: left;
-  margin-right: 15px;
-  width: 200px;
 }
 
-#jobbkep{
+.jobbra{
   float: right;
-  width: 400px;
-  margin: 10px;
 }
 
 table{
@@ -64,4 +60,5 @@ td:nth-child(2) {
 img{
   box-shadow: 5px 5px 7px #1D1D4E;
   border: 1px solid #1D1D4E;
+  min-width: 300px;
 }
